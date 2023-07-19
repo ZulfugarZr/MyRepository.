@@ -1,9 +1,6 @@
 Let's get to work
 We are in github now.
 Let us make some changes
-<<<<<<< HEAD
 We must win
 rjrf
-=======
 
->>>>>>> 8f2c9a451a43bbb811ecff059ce96b65f4e7faef
